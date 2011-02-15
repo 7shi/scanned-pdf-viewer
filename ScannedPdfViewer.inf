@@ -4,8 +4,8 @@ Provider="7shi"
 CESignature="$Windows CE$"
 
 [CEStrings]
-AppName="JPEG Viewer"
-InstallDir=%CE1%\JpegViewer
+AppName="Scanned PDF Viewer"
+InstallDir=%CE1%\ScannedPdfViewer
 
 [Strings]
 Manufacturer="7shi"
@@ -21,19 +21,19 @@ AddReg=RegKeys
 CopyFiles=Files.Common
 
 [SourceDisksNames]
-1=,"Common",,"JpegViewer\bin\Release"
+1=,"Common",,"ScannedPdfViewer\bin\Release"
 
 [SourceDisksFiles]
-"JpegViewer.exe"=1
+"ScannedPdfViewer.exe"=1
 
 [DestinationDirs]
 Shortcuts=0,%CE2%\Start Menu
 Files.Common=0,"%InstallDir%"
 
 [Files.Common]
-"JpegViewer.exe",,,0
+"ScannedPdfViewer.exe",,,0
 
 [Shortcuts]
-"JPEG Viewer",0,"JpegViewer.exe","%CE17%"
+"Scanned PDF Viewer",0,"ScannedPdfViewer.exe","%CE17%"
 
 [RegKeys]

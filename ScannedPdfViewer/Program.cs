@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Windows.Forms;
 using System.Drawing.Imaging;
 
-namespace JpegViewer
+namespace ScannedPdfViewer
 {
     static class Program
     {

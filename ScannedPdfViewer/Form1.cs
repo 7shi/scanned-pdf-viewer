@@ -7,7 +7,7 @@ using System.Text;
 using System.Windows.Forms;
 using Local;
 
-namespace JpegViewer
+namespace ScannedPdfViewer
 {
     public class Form1 : Form
     {
@@ -29,7 +29,7 @@ namespace JpegViewer
             vscrollBar1 = new VScrollBar { Maximum = 0, LargeChange = 10, BackColor = back };
             ofd.Filter = "無圧縮 ZIP ファイル (*.zip)|*.zip|すべてのファイル (*.*)|*.*";
 
-            Text = "JPEG Viewer";
+            Text = "Scanned PDF Viewer";
             if (Utils.IsWinCE)
             {
                 TopMost = true;

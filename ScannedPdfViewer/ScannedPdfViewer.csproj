@@ -8,8 +8,8 @@
     <ProjectGuid>{B36B53A7-F409-476D-BB86-2F43FCCEB29E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>JpegViewer</RootNamespace>
-    <AssemblyName>JpegViewer</AssemblyName>
+    <RootNamespace>ScannedPdfViewer</RootNamespace>
+    <AssemblyName>ScannedPdfViewer</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <FileUpgradeFlags>

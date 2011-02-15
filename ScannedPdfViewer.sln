@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JpegViewer", "JpegViewer\JpegViewer.csproj", "{B36B53A7-F409-476D-BB86-2F43FCCEB29E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScannedPdfViewer", "ScannedPdfViewer\ScannedPdfViewer.csproj", "{B36B53A7-F409-476D-BB86-2F43FCCEB29E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
